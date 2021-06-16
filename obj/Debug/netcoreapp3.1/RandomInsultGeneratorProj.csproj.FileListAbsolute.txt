@@ -1,0 +1,12 @@
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.csprojAssemblyReference.cache
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.AssemblyInfoInputs.cache
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.AssemblyInfo.cs
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.csproj.CoreCompileInputs.cache
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/bin/Debug/netcoreapp3.1/RandomInsultGeneratorProj.deps.json
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/bin/Debug/netcoreapp3.1/RandomInsultGeneratorProj.runtimeconfig.json
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/bin/Debug/netcoreapp3.1/RandomInsultGeneratorProj.runtimeconfig.dev.json
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/bin/Debug/netcoreapp3.1/RandomInsultGeneratorProj.dll
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/bin/Debug/netcoreapp3.1/RandomInsultGeneratorProj.pdb
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.dll
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.pdb
+/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.genruntimeconfig.cache
