@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ifvXzf5ZxwfP8wZLpIgkb4mdK9LvCVcJRPdD8kY9qphsgur/h4XAWRT+6p5iJZ8u+GC02kVM2T9BIM9QgNvvcw==",
+  "dgSpecHash": "dlq4AxIUP92ZKbEZ0uoXv9NRcxsBTsRATKAbASz9R8K1JIVh5VMsWAj5HtggYZm2aVfy5xU9aHAS9EtQtBD8Lw==",
   "success": true,
-  "projectFilePath": "/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/RandomInsultGeneratorProj.csproj",
+  "projectFilePath": "C:\\Users\\Plane\\Documents\\InsultGenerator-CMD\\RandomInsultGeneratorProj.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

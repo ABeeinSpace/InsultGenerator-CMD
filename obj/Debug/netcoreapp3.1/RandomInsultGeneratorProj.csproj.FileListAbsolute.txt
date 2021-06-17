@@ -10,3 +10,16 @@
 /Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.dll
 /Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.pdb
 /Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/Debug/netcoreapp3.1/RandomInsultGeneratorProj.genruntimeconfig.cache
+C:\Users\Plane\Documents\InsultGenerator-CMD\bin\Debug\netcoreapp3.1\RandomInsultGeneratorProj.exe
+C:\Users\Plane\Documents\InsultGenerator-CMD\bin\Debug\netcoreapp3.1\RandomInsultGeneratorProj.deps.json
+C:\Users\Plane\Documents\InsultGenerator-CMD\bin\Debug\netcoreapp3.1\RandomInsultGeneratorProj.runtimeconfig.json
+C:\Users\Plane\Documents\InsultGenerator-CMD\bin\Debug\netcoreapp3.1\RandomInsultGeneratorProj.runtimeconfig.dev.json
+C:\Users\Plane\Documents\InsultGenerator-CMD\bin\Debug\netcoreapp3.1\RandomInsultGeneratorProj.dll
+C:\Users\Plane\Documents\InsultGenerator-CMD\bin\Debug\netcoreapp3.1\RandomInsultGeneratorProj.pdb
+C:\Users\Plane\Documents\InsultGenerator-CMD\obj\Debug\netcoreapp3.1\RandomInsultGeneratorProj.csprojAssemblyReference.cache
+C:\Users\Plane\Documents\InsultGenerator-CMD\obj\Debug\netcoreapp3.1\RandomInsultGeneratorProj.AssemblyInfoInputs.cache
+C:\Users\Plane\Documents\InsultGenerator-CMD\obj\Debug\netcoreapp3.1\RandomInsultGeneratorProj.AssemblyInfo.cs
+C:\Users\Plane\Documents\InsultGenerator-CMD\obj\Debug\netcoreapp3.1\RandomInsultGeneratorProj.csproj.CoreCompileInputs.cache
+C:\Users\Plane\Documents\InsultGenerator-CMD\obj\Debug\netcoreapp3.1\RandomInsultGeneratorProj.dll
+C:\Users\Plane\Documents\InsultGenerator-CMD\obj\Debug\netcoreapp3.1\RandomInsultGeneratorProj.pdb
+C:\Users\Plane\Documents\InsultGenerator-CMD\obj\Debug\netcoreapp3.1\RandomInsultGeneratorProj.genruntimeconfig.cache

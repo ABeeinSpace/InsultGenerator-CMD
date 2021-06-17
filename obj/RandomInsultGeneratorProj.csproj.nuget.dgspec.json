@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/RandomInsultGeneratorProj.csproj": {}
+    "C:\\Users\\Plane\\Documents\\InsultGenerator-CMD\\RandomInsultGeneratorProj.csproj": {}
   },
   "projects": {
-    "/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/RandomInsultGeneratorProj.csproj": {
+    "C:\\Users\\Plane\\Documents\\InsultGenerator-CMD\\RandomInsultGeneratorProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/RandomInsultGeneratorProj.csproj",
+        "projectUniqueName": "C:\\Users\\Plane\\Documents\\InsultGenerator-CMD\\RandomInsultGeneratorProj.csproj",
         "projectName": "RandomInsultGeneratorProj",
-        "projectPath": "/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/RandomInsultGeneratorProj.csproj",
-        "packagesPath": "/Users/aidanb/.nuget/packages/",
-        "outputPath": "/Users/aidanb/Developer/C# Projects/RandomInsultGeneratorProj/obj/",
+        "projectPath": "C:\\Users\\Plane\\Documents\\InsultGenerator-CMD\\RandomInsultGeneratorProj.csproj",
+        "packagesPath": "C:\\Users\\Plane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plane\\Documents\\InsultGenerator-CMD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/aidanb/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Plane\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -36,7 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
         }
       }
     }
